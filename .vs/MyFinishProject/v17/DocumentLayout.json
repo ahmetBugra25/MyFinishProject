@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\KullaniciGirisVs\\Scripts\\ChatGPT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\KullaniciGirisVs\\Scripts\\ChatGPT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\Samples\\OpenAI Unity\\0.2.0.meta||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Samples\\OpenAI Unity\\0.2.0.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\Samples\\OpenAI Unity.meta||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Samples\\OpenAI Unity.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\YasGrubuEkranlari\\Scripts\\OyunaYonlendirme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\YasGrubuEkranlari\\Scripts\\OyunaYonlendirme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\Samples.meta||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Samples.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\Oyunlar.meta||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Oyunlar.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\Received Message.prefab||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\Received Message.prefab||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\Received Message.prefab.meta||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\Received Message.prefab.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\Sent Message.prefab.meta||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\Sent Message.prefab.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\Sent Message.prefab||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\Sent Message.prefab||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\KullaniciGirisVs\\Scripts\\KarsilamaEkraniBilgiCekme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\KullaniciGirisVs\\Scripts\\KarsilamaEkraniBilgiCekme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\KullaniciGirisVs\\Scripts\\InternetControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\KullaniciGirisVs\\Scripts\\InternetControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\KullaniciGirisVs\\Scripts\\ChatGPT.cs.meta||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\KullaniciGirisVs\\Scripts\\ChatGPT.cs.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Library\\SourceAssetDB||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\SourceAssetDB||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\ProjectSettings\\MultiplayerManager.asset||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectSettings\\MultiplayerManager.asset||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\ProjectSettings\\AudioManager.asset||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectSettings\\AudioManager.asset||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Temp\\workerlic||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Temp\\workerlic||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\UserSettings\\Layouts\\CurrentMaximizeLayout.dwlt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserSettings\\Layouts\\CurrentMaximizeLayout.dwlt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\UserSettings\\Layouts\\default-2022.dwlt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserSettings\\Layouts\\default-2022.dwlt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\UserSettings\\Search.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserSettings\\Search.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\UserSettings\\Search.index||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserSettings\\Search.index||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\UserSettings\\EditorUserSettings.asset||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserSettings\\EditorUserSettings.asset||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OyunaYonlendirme.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\YasGrubuEkranlari\\Scripts\\OyunaYonlendirme.cs",
+              "RelativeDocumentMoniker": "Assets\\YasGrubuEkranlari\\Scripts\\OyunaYonlendirme.cs",
+              "ToolTip": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\YasGrubuEkranlari\\Scripts\\OyunaYonlendirme.cs",
+              "RelativeToolTip": "Assets\\YasGrubuEkranlari\\Scripts\\OyunaYonlendirme.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:56:34.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Samples.meta",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\Samples.meta",
+              "RelativeDocumentMoniker": "Assets\\Samples.meta",
+              "ToolTip": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\Samples.meta",
+              "RelativeToolTip": "Assets\\Samples.meta",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-02T12:56:11.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Oyunlar.meta",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\Oyunlar.meta",
+              "RelativeDocumentMoniker": "Assets\\Oyunlar.meta",
+              "ToolTip": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\Oyunlar.meta",
+              "RelativeToolTip": "Assets\\Oyunlar.meta",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-02T12:56:10.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Received Message.prefab",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\Received Message.prefab",
+              "RelativeDocumentMoniker": "Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\Received Message.prefab",
+              "ToolTip": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\Received Message.prefab",
+              "RelativeToolTip": "Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\Received Message.prefab",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-02T12:55:57.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OpenAI Unity.meta",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\Samples\\OpenAI Unity.meta",
+              "RelativeDocumentMoniker": "Assets\\Samples\\OpenAI Unity.meta",
+              "ToolTip": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\Samples\\OpenAI Unity.meta",
+              "RelativeToolTip": "Assets\\Samples\\OpenAI Unity.meta",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-02T12:55:44.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "0.2.0.meta",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\Samples\\OpenAI Unity\\0.2.0.meta",
+              "RelativeDocumentMoniker": "Assets\\Samples\\OpenAI Unity\\0.2.0.meta",
+              "ToolTip": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\Samples\\OpenAI Unity\\0.2.0.meta",
+              "RelativeToolTip": "Assets\\Samples\\OpenAI Unity\\0.2.0.meta",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-02T12:55:43.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatGPT.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\KullaniciGirisVs\\Scripts\\ChatGPT.cs",
+              "RelativeDocumentMoniker": "Assets\\KullaniciGirisVs\\Scripts\\ChatGPT.cs",
+              "ToolTip": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\KullaniciGirisVs\\Scripts\\ChatGPT.cs",
+              "RelativeToolTip": "Assets\\KullaniciGirisVs\\Scripts\\ChatGPT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:54:59.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Received Message.prefab.meta",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\Received Message.prefab.meta",
+              "RelativeDocumentMoniker": "Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\Received Message.prefab.meta",
+              "ToolTip": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\Received Message.prefab.meta",
+              "RelativeToolTip": "Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\Received Message.prefab.meta",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-02T12:55:56.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sent Message.prefab.meta",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\Sent Message.prefab.meta",
+              "RelativeDocumentMoniker": "Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\Sent Message.prefab.meta",
+              "ToolTip": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\Sent Message.prefab.meta",
+              "RelativeToolTip": "Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\Sent Message.prefab.meta",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-02T12:55:54.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sent Message.prefab",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\Sent Message.prefab",
+              "RelativeDocumentMoniker": "Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\Sent Message.prefab",
+              "ToolTip": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\Sent Message.prefab",
+              "RelativeToolTip": "Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\Sent Message.prefab",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-02T12:55:52.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KarsilamaEkraniBilgiCekme.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\KullaniciGirisVs\\Scripts\\KarsilamaEkraniBilgiCekme.cs",
+              "RelativeDocumentMoniker": "Assets\\KullaniciGirisVs\\Scripts\\KarsilamaEkraniBilgiCekme.cs",
+              "ToolTip": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\KullaniciGirisVs\\Scripts\\KarsilamaEkraniBilgiCekme.cs",
+              "RelativeToolTip": "Assets\\KullaniciGirisVs\\Scripts\\KarsilamaEkraniBilgiCekme.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:55:25.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InternetControl.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\KullaniciGirisVs\\Scripts\\InternetControl.cs",
+              "RelativeDocumentMoniker": "Assets\\KullaniciGirisVs\\Scripts\\InternetControl.cs",
+              "ToolTip": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\KullaniciGirisVs\\Scripts\\InternetControl.cs",
+              "RelativeToolTip": "Assets\\KullaniciGirisVs\\Scripts\\InternetControl.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:55:21.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChatGPT.cs.meta",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\KullaniciGirisVs\\Scripts\\ChatGPT.cs.meta",
+              "RelativeDocumentMoniker": "Assets\\KullaniciGirisVs\\Scripts\\ChatGPT.cs.meta",
+              "ToolTip": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Assets\\KullaniciGirisVs\\Scripts\\ChatGPT.cs.meta",
+              "RelativeToolTip": "Assets\\KullaniciGirisVs\\Scripts\\ChatGPT.cs.meta",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-02T12:55:18.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SourceAssetDB",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Library\\SourceAssetDB",
+              "RelativeDocumentMoniker": "Library\\SourceAssetDB",
+              "ToolTip": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Library\\SourceAssetDB",
+              "RelativeToolTip": "Library\\SourceAssetDB",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-02T12:54:52.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MultiplayerManager.asset",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\ProjectSettings\\MultiplayerManager.asset",
+              "RelativeDocumentMoniker": "ProjectSettings\\MultiplayerManager.asset",
+              "ToolTip": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\ProjectSettings\\MultiplayerManager.asset",
+              "RelativeToolTip": "ProjectSettings\\MultiplayerManager.asset",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-02T12:54:28.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AudioManager.asset",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\ProjectSettings\\AudioManager.asset",
+              "RelativeDocumentMoniker": "ProjectSettings\\AudioManager.asset",
+              "ToolTip": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\ProjectSettings\\AudioManager.asset",
+              "RelativeToolTip": "ProjectSettings\\AudioManager.asset",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-02T12:54:23.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "workerlic",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Temp\\workerlic",
+              "RelativeDocumentMoniker": "Temp\\workerlic",
+              "ToolTip": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\Temp\\workerlic",
+              "RelativeToolTip": "Temp\\workerlic",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-02T12:54:15.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CurrentMaximizeLayout.dwlt",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\UserSettings\\Layouts\\CurrentMaximizeLayout.dwlt",
+              "RelativeDocumentMoniker": "UserSettings\\Layouts\\CurrentMaximizeLayout.dwlt",
+              "ToolTip": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\UserSettings\\Layouts\\CurrentMaximizeLayout.dwlt",
+              "RelativeToolTip": "UserSettings\\Layouts\\CurrentMaximizeLayout.dwlt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-02T12:54:09.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "default-2022.dwlt",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\UserSettings\\Layouts\\default-2022.dwlt",
+              "RelativeDocumentMoniker": "UserSettings\\Layouts\\default-2022.dwlt",
+              "ToolTip": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\UserSettings\\Layouts\\default-2022.dwlt",
+              "RelativeToolTip": "UserSettings\\Layouts\\default-2022.dwlt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-02T12:54:08.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EditorUserSettings.asset",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\UserSettings\\EditorUserSettings.asset",
+              "RelativeDocumentMoniker": "UserSettings\\EditorUserSettings.asset",
+              "ToolTip": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\UserSettings\\EditorUserSettings.asset",
+              "RelativeToolTip": "UserSettings\\EditorUserSettings.asset",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-02T12:53:58.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Search.index",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\UserSettings\\Search.index",
+              "RelativeDocumentMoniker": "UserSettings\\Search.index",
+              "ToolTip": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\UserSettings\\Search.index",
+              "RelativeToolTip": "UserSettings\\Search.index",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-02T12:53:57.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Search.settings",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\UserSettings\\Search.settings",
+              "RelativeDocumentMoniker": "UserSettings\\Search.settings",
+              "ToolTip": "C:\\Users\\Ahmet\\Documents\\GitHub\\MyFinishProject\\UserSettings\\Search.settings",
+              "RelativeToolTip": "UserSettings\\Search.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-11-02T12:53:51.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
